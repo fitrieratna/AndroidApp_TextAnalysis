@@ -17,7 +17,7 @@ What you can find in this repository are:
 
 If you find difficult when accessing those files from github (often happens from Github), here are the alternatives:
 1. Simply copy the github file link and paste to https://nbviewer.org/ , OR
-2. Download whole files (by choose download ZIP in 'Code' button top of this repository), OR
+2. Download whole files (by choose download ZIP in 'Code' of green button on top right of this repository), OR
 3. Clone the repo and access from your end. 
 
 Have a good day! :)
