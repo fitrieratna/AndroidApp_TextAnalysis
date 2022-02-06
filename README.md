@@ -1,6 +1,5 @@
 # AndroidApp_TextAnalysis
 
-# DataApp_analysis
 
 Hi, there!
 
