@@ -15,7 +15,10 @@ What you can find in this repository are:
 5. HTML file of <b>Topic Segmentation output</b> for <b>Positive</b> Sentiment
 6. HTML file of <b>Topic Segmentation output</b> for <b>Negative</b> Sentiment
 
-If you find difficult when accessing those files from github (often happens from Github), simply copy the link and paste to https://nbviewer.org/ or you can clone the repo and access from your end. 
+If you find difficult when accessing those files from github (often happens from Github), here are the alternatives:
+1. Simply copy the link and paste to https://nbviewer.org/ , OR
+2. Download whole files (by choose download ZIP in 'Code' button top of this repository), OR
+3. Clone the repo and access from your end. 
 
 Have a good day! :)
 
