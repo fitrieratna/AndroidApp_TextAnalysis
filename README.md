@@ -3,7 +3,7 @@
 
 Hi, there!
 
-This is code archive for Text Analysis and Topic Extraction from user_reviews of Android App. 
+This is code archive for Text Analysis and Topic Extraction from user reviews of Android App. 
 
 Dataset Source : https://www.kaggle.com/housseinihadia/the-android-app-market-on-google-play?select=apps.csv
 
